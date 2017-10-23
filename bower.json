@@ -4,7 +4,7 @@
     "Juan Jacobs <juan@producteca.com>"
   ],
   "description": "",
-  "main": "",
+  "main": "index.js",
   "license": "MIT",
   "homepage": "",
   "ignore": [
