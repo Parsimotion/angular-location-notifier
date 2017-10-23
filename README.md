@@ -1,7 +1,12 @@
 # angular-location-notifier
-Notify your new location to parent app when running inside an iframe
-
-
+Notify your new location to parent app when running inside an iframe via window.postMessage.
+### Example message
+```
+{
+   type: "iframe_url_changed",
+   href: "http://your-app.com/the/new/location"
+};
+```
 # Installation
 
     $ bower install parsimotion/angular-locationo-notifier --save
