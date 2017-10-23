@@ -1,5 +1,5 @@
 {
-  "name": "location-notifier",
+  "name": "angular-location-notifier",
   "authors": [
     "Juan Jacobs <juan@producteca.com>"
   ],
@@ -13,5 +13,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular": "1.5.0"
+  }
 }
