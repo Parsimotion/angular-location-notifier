@@ -9,7 +9,7 @@ Notify your new location to parent app when running inside an iframe via window.
 ```
 # Installation
 
-    $ bower install parsimotion/angular-locationo-notifier --save
+    $ bower install parsimotion/angular-location-notifier --save
 
 To use, include "location.notifier" as a dependency in your Angular module:
 ```
